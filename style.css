@@ -1,0 +1,29 @@
+.index-img {
+    border: 8px dashed;
+    border-radius: 2%;
+    width: max-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width: fit-content;
+}
+.index-heading {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+    margin: auto;
+    font-size: 4em;
+    color: rgb(54, 40, 14);
+}
+.index-nav {
+    text-align: center;
+    padding: 0;
+    margin: 20px;
+}
+ul {
+    list-style: none;
+    font-size: 1.8em;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 1px;
+    padding-bottom: 5px;
+}
